@@ -1,2 +1,0 @@
-C:\Users\juliu\Desktop\Coding Projects\Twitch Memer\Chatter\Chatter\bin\Release\net7.0-windows\Chatter.pdb
-C:\Users\juliu\Desktop\Coding Projects\Twitch Memer\Chatter\Chatter\bin\Release\net7.0-windows\Chatter.exe
